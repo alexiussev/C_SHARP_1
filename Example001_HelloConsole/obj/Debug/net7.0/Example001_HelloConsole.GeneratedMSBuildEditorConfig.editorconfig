@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Example001_HelloConsole
+build_property.ProjectDir = E:\ALEX_OIL\МОИ ДОКУМЕНТЫ\ОБУЧЕНИЕ\Geek Brain\2022-12-13 Лекции Язык C - Урок 1 - Test3\Example001_HelloConsole\
